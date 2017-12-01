@@ -10,4 +10,4 @@ The easiest method is through an extension/add-on on chrome/firefox:
 
 - Install Tampermonkey ([chrome extension](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)/[firefox add-on](https://addons.mozilla.org/firefox/addon/tampermonkey/))
 
-Then add the script using the following link: https://github.com/cooljingle/memrise-all-audio-multiple-choice/raw/master/Memrise_All_Audio_Multiple_Choice.user.js
+Then add the script using the following link: https://github.com/cooljingle/memrise-all-audio-typing/raw/master/Memrise_All_Audio_Typing.user.js
