@@ -4,6 +4,10 @@
 // @description    Turns all tests into audio typing
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
+// @match          https://app.memrise.com/course/*/garden/*
+// @match          https://app.memrise.com/garden/review/*
+// @match          https://decks.memrise.com/course/*/garden/*
+// @match          https://decks.memrise.com/garden/review/*
 // @version        0.0.1
 // @updateURL      https://github.com/cooljingle/memrise-all-audio-typing/raw/master/Memrise_All_Audio_Typing.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-all-audio-typing/raw/master/Memrise_All_Audio_Typing.user.js
